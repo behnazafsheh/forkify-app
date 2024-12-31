@@ -66,5 +66,6 @@ const init = function () {
 recipeView.addHandlerRender(controlRecipes);
 searchView.addHandlerSearch(controlSearchResults);
 }
+console.log('hello');
 
 init();
